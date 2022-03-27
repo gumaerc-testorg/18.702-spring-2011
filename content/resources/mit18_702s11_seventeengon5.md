@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09b8b9ce-f42a-569b-593d-890b912b0ae6
 resourcetype: Document
 title: MIT18_702S11_seventeengon5.pdf
 uid: 4ebf8b1c-a041-c015-dd8f-d86fd19c4198
