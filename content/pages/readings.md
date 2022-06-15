@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings and exercises suggested
+  by the professor for each session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -582,7 +584,7 @@ Quartic equations (cont.)
 
 Chapter 16, section 9
 
-Handout on The Seventeengon ([PDF]({{< baseurl >}}/resources/mit18_702s11_seventeengon5))
+Handout on The Seventeengon ({{% resource_link 4ebf8b1c-a041-c015-dd8f-d86fd19c4198 "PDF" %}})
 
 
 {{< tdclose >}}
