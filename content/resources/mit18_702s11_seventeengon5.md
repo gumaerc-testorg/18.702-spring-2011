@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to handout on the seventeengon.
-file: /courses/18-702-algebra-ii-spring-2011/4ebf8b1ca041c015dd8fd86fd19c4198_MIT18_702S11_seventeengon5.pdf
+file: /ol-ocw-studio-app/courses/18-702-algebra-ii-spring-2011/4ebf8b1ca041c015dd8fd86fd19c4198_MIT18_702S11_seventeengon5.pdf
 file_size: 84033
 file_type: application/pdf
 learning_resource_types:
